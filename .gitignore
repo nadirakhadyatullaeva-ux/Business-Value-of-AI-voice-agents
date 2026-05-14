@@ -1,0 +1,20 @@
+# Jupyter autosaves and execution metadata
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
